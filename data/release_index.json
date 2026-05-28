@@ -1,0 +1,93 @@
+{
+  "latest_version": "2026.05.28.008",
+  "updated_at": "2026-05-28T13:43:44.845828+08:00",
+  "releases": [
+    {
+      "version": "2026.05.28.008",
+      "published_at": "2026-05-28T13:43:44.813461+08:00",
+      "title": "Official public asset release",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.008/report.md",
+      "release_file": "releases/2026.05.28.008/release.json",
+      "diff": "releases/2026.05.28.008/diff.json",
+      "validation": "releases/2026.05.28.008/validation.json",
+      "file_checksums": "releases/2026.05.28.008/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.007",
+      "published_at": "2026-05-28T13:38:28.051825+08:00",
+      "title": "v0.9.1 release flow test",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.007/report.md",
+      "release_file": "releases/2026.05.28.007/release.json",
+      "diff": "releases/2026.05.28.007/diff.json",
+      "validation": "releases/2026.05.28.007/validation.json",
+      "file_checksums": "releases/2026.05.28.007/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.006",
+      "published_at": "2026-05-28T13:15:49.983655+08:00",
+      "title": "v0.9 發布與版本管理強化",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.006/report.md",
+      "release_file": "releases/2026.05.28.006/release.json",
+      "diff": "releases/2026.05.28.006/diff.json",
+      "validation": "releases/2026.05.28.006/validation.json",
+      "file_checksums": "releases/2026.05.28.006/file_checksums.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.005",
+      "published_at": "2026-05-28T13:10:07.800668+08:00",
+      "title": "v0.8.3 stable archive validation",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.005/report.md",
+      "release_file": "releases/2026.05.28.005/release.json",
+      "diff": "releases/2026.05.28.005/diff.json",
+      "validation": "releases/2026.05.28.005/validation.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.004",
+      "published_at": "2026-05-28T12:47:13.605741+08:00",
+      "title": "v0.8.1 管理端修正",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.004/report.md",
+      "release_file": "releases/2026.05.28.004/release.json",
+      "diff": "releases/2026.05.28.004/diff.json",
+      "validation": "releases/2026.05.28.004/validation.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.003",
+      "published_at": "2026-05-28T10:25:54.902070+08:00",
+      "title": "test",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.003/report.md",
+      "release_file": "releases/2026.05.28.003/release.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.002",
+      "published_at": "2026-05-28T09:59:58.139004+08:00",
+      "title": "v0.3 管理端首次本機發布測試",
+      "summary": "本機發布包產生完成：素材包 3 個，素材 3 筆。",
+      "report": "releases/2026.05.28.002/report.md",
+      "release_file": "releases/2026.05.28.002/release.json",
+      "status": "published_local"
+    },
+    {
+      "version": "2026.05.28.001",
+      "published_at": "2026-05-28T09:30:00+08:00",
+      "title": "初始化 HW AI Studio LINE 素材庫資料骨架",
+      "summary": "建立 public_dist、data、assets、thumbs、releases 等資料結構，新增 HW 系列 / 好事多測試素材包。",
+      "report": "releases/2026.05.28.001/report.md",
+      "release_file": "releases/2026.05.28.001/release.json",
+      "diff": "releases/2026.05.28.001/diff.json",
+      "validation": "releases/2026.05.28.001/validation.json",
+      "status": "published"
+    }
+  ]
+}
