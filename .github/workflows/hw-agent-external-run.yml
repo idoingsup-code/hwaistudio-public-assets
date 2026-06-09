@@ -3,9 +3,9 @@ name: HW Agent External Run
 on:
   workflow_dispatch:
   schedule:
-    # GitHub cron 使用 UTC；台灣時間 = UTC + 8
-    # 每小時第 10 分鐘執行一次，避開整點高峰
-    - cron: "10 * * * *"
+    # GitHub schedule 預設使用 UTC。
+    # 每 15 分鐘觸發一次；PythonAnywhere 端有 50 分鐘防重複，所以實際約每小時跑一次。
+    - cron: "*/15 * * * *"
 
 concurrency:
   group: hw-agent-external-run
